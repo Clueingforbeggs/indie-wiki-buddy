@@ -395,7 +395,7 @@
       }
     ],
     "destination": "Chrono Wiki",
-    "destination_base_url": "www.chronowiki.org",
+    "destination_base_url": "chronowiki.org",
     "destination_content_path": "/wiki/",
     "destination_platform": "mediawiki",
     "destination_icon": "chrono.png"
@@ -411,7 +411,7 @@
       }
     ],
     "destination": "C64-Wiki",
-    "destination_base_url": "www.c64-wiki.com",
+    "destination_base_url": "c64-wiki.com",
     "destination_content_path": "/wiki/",
     "destination_platform": "mediawiki",
     "destination_icon": "c64.png"
@@ -1892,7 +1892,7 @@
       }
     ],
     "destination": "Tally Hallmanac",
-    "destination_base_url": "www.hiddeninthesand.com",
+    "destination_base_url": "hiddeninthesand.com",
     "destination_content_path": "/wiki/",
     "destination_platform": "mediawiki",
     "destination_icon": "tallyhallmanac.png"
@@ -2074,7 +2074,7 @@
       }
     ],
     "destination": "Weezerpedia",
-    "destination_base_url": "www.weezerpedia.com",
+    "destination_base_url": "weezerpedia.com",
     "destination_content_path": "/wiki/",
     "destination_platform": "mediawiki",
     "destination_icon": "weezerpedia.png"
@@ -2198,4 +2198,20 @@
     "destination_platform": "mediawiki",
     "destination_icon": "zeldapedia.png"
   }
+  {
+  "id": "en-sims",
+  "origins_label": "Sims Fandom Wiki",
+  "origins": [
+    {
+      "origin": "Sims Fandom Wiki",
+      "origin_base_url": "sims.fandom.com",
+      "origin_content_path": "/wiki/"
+    }
+  ]
+  "destination": "The Sims Wiki",
+  "destination_base_url": "thesimswiki.com",
+  "destination_content_path": "/wiki/",
+  "destination_platform": "mediawiki",
+  "destination_icon": "sims.png"
+}
 ]
